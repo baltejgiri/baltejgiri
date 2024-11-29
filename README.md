@@ -1,3 +1,5 @@
+![Cisco Switch Image](https://github.com/baltejgiri/baltejgiri/blob/main/baltejgiri-cisco-switch.png]
+
 # Welcome to my portfolio
 
 ## About me
