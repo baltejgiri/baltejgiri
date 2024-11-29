@@ -1,4 +1,4 @@
-![Cisco Switch Image](baltejgiri-cisco-switch.png)
+![Cisco Switch Image](network_design.jpg)
 
 # Welcome to my portfolio
 
