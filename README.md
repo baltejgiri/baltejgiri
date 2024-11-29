@@ -16,11 +16,23 @@ I am Baltej Giri. I am a Computer Networking Professional with six plus years of
 
 ## What's Next?
 <p>
-This is a markdown file and it uses some HTML, CSS and JavaScript. I have learned some basic's of programming using to utiize the Github to document articles, code, lab configurations.
+I am planned to learn Github, Technical Writing, Network Administration tools: Switching, Routing, and Programming language. The ultimate long term goal is to master each of these topics.
 </p>
 
-<p>
-Automating networking tasks is my ultimate goal, so I am going to focus on programming langurage: python. Python is used for network automation using libraies and tools.
+### Short term goals<br>
+Being proficent at following skills and tools.
+- Github
+- Technical Documentation
+- Network Administrator
+- Network Design
+
+### Mid Term goals
+- Python, I am going to focus on programming langurage - python. Python is used for network automation using libraies and tools.
+
+### Long Term goals
+- Mastering network protocols
+- Network design,
+- Python as programming language and provide solutions from arcitecure point of view.
 </p>
 
 ## How to reach me?
