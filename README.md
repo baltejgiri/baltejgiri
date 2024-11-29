@@ -1,16 +1,23 @@
-![Cisco Switch Image](https://github.com/baltejgiri/baltejgiri/blob/main/baltejgiri-cisco-switch.png]
+![Cisco Switch Image](baltejgiri-cisco-switch.png)
 
 # Welcome to my portfolio
 
 ## About me
+<p>
 My name is Baltej Giri. I am a Computer Networking Professional with six plus years of experience in Information Technology. My core skills are:
 
 - Communication
 - Problem-solvings
 - Network Administration
 - Cloud Networking
+</p>
 
 ## Expertises
+- Computer Networking
+- Cloud Networking
+- Web Development
+- Problem-solving
+- Technical Documentation
 
 ## How to reach me?
 - LinkedIn: https://www.linkedin.com/in/baltej-giri
