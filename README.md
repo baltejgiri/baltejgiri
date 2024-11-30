@@ -27,13 +27,26 @@ Being proficent in following skills and tools.
 - Network Design
 
 ### Mid-term goals
-- Python, I am going to focus on programming langurage - python. Python is used for network automation using libraies and tools.
+- Programming language - Python
+
+The plan is to have a good understanding of Python. Python is a versatile programming language. The network automation is done using Python, it helps to automate repetative tasks like: Deploying multiple switches, updating policies and much more.
 
 ### Long-term goals
+The short and mid-term goals are the objectives of long-term goals. The long-term goals are projected to be completed in 2-3 year of time frame. An additional aspect of working in Networking field is to adept with new technologies. ChatGPT is an perfect example, although it is a new skill to be learn I am going to adept to learnt I think a right time to dive into AI would be when I am activlty working on automating networks or at a architect role.
+
 - Mastering network protocols
-- Network design,
-- Python as programming language and provide solutions from arcitecure point of view.
+- Network design
+- Python as programming language
 </p>
+
+## Certifications
+IT certifications are great way to prove the skills that an indvidual has in the field. However, getting an IT certification itself does not help. An IT certification can help to get a job interview or fullfil a requirement on on a job description but what matters on the actual job is experience and deep understanding of protocols.</br>
+
+IT certs can be used to learn the skills, they have a good curiculum to follow but while pursuing a certification, many focus on just getting a certfication by all means and often it becomes a chasing game.</br>
+
+Instead soley focusing on getting a certification, in my optinion it is better to use the certification curiculum and master the each concepts. Understand the fundamentals of protocols and technologies. It is important to take time and have a understanding of skills tested in the cert which will pay-off twice, first to excel at job and second to obtain a offical cert.</br>
+
+I am going to work towards Cisco's Professional Certification for Enterprise Networking. It's is often referred as CCNP then specilises in Enterprise Networking.
 
 ## How to reach me?
 - LinkedIn: https://www.linkedin.com/in/baltej-giri
