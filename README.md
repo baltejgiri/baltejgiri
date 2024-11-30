@@ -7,7 +7,7 @@
 I am Baltej Giri. I am a Computer Networking Professional with six plus years of experience in Information Technology. I am passonate about creating network designs, write technical articles, and master networking protocols. I am a lifelong learner and like to stay connected with like minded people.
 </p>
 
-## Expertises
+## Skills
 - Computer Networking
 - Cloud Networking
 - Web Development
@@ -19,17 +19,17 @@ I am Baltej Giri. I am a Computer Networking Professional with six plus years of
 I am planned to learn Github, Technical Writing, Network Administration tools: Switching, Routing, and Programming language. The ultimate long term goal is to master each of these topics.
 </p>
 
-### Short term goals<br>
-Being proficent at following skills and tools.
+### Short-term goals
+Being proficent in following skills and tools.
 - Github
 - Technical Documentation
 - Network Administrator
 - Network Design
 
-### Mid Term goals
+### Mid-term goals
 - Python, I am going to focus on programming langurage - python. Python is used for network automation using libraies and tools.
 
-### Long Term goals
+### Long-term goals
 - Mastering network protocols
 - Network design,
 - Python as programming language and provide solutions from arcitecure point of view.
