@@ -2,13 +2,13 @@
 
 ## AOS-CX: enterprise-class features
 
-![HPE CX Enterprise class features](/images/hpe_aruba/images/hpe_cx_enterprise_class_features.png)
+![HPE CX Enterprise class features](/hpe_aruba/images/hpe_cx_enterprise_class_features.png)
 
 ## AOS-CX: portfolio
 
 __AOS-CX__ series switches are used from Access to Core and Data centers, they are all on same operating system and features are the same. It makes easier to maintain, and configurations are consistent. The only differences are in the hardware capacity, the bigger the hardware the more tables they support.
 
-![HPE CX Series Switches](/images/hpe_cx_series_switches.png)
+![HPE CX Series Switches](/hpe_aruba//images/hpe_cx_series_switches.png)
 
 All switches can Open REST API and run a script and operate like SNMP and gather information by itself and monitor directly on your switch. They can interact with 3rd party devices and send it to SNMP and MAP.
 
@@ -16,7 +16,7 @@ All switches can Open REST API and run a script and operate like SNMP and gather
 
 ## AOS-CX CLI Access
 
-![Accessing AOS-CX CLI](/images/hpe_accessing_aos+cx_cli.png)
+![Accessing AOS-CX CLI](/hpe_aruba//images/hpe_accessing_aos+cx_cli.png)
 
 ### Accessing AOS-CX CLI: console port
 
@@ -37,7 +37,7 @@ All switches can Open REST API and run a script and operate like SNMP and gather
 
 AOS-CX port numbering is based on a combination of slot and port identifiers, often in the format ```<slot>/<port>``` or ```<slot>/<sub-slot>/<port>```. The exact format depends on whether you're working with a modular chassis or a fixed-port switch.
 
-![AOS-CX switches port numbering](/images/hpe_aos+cx_port_numbering.png)
+![AOS-CX switches port numbering](/hpe_aruba//images/hpe_aos+cx_port_numbering.png)
 
 The fixed port switch demonstrates the ```member ID = 1``` and ```slot = 1``` and ```port = 48```.
 
@@ -45,13 +45,13 @@ The modular switch shows two member ID's then each member can have it's own slot
 
 ### AOS-CX CLI: Prompt modes
 
-![AOS-CX CLI Prompt modes](/images/hpe_aos_cx_cli_prompt_modes.png)
+![AOS-CX CLI Prompt modes](/hpe_aruba//images/hpe_aos_cx_cli_prompt_modes.png)
 
 ### The value of show commands
 
 Good network engineers and administrators must be adept at discovering the ACTUAL connectivity of the network. This can help to verify the accuracy of existing documentation, or to create new network documentations from scratch.
 
-![HPE Campus Design](/images/hpe_aruba_campus_design.png)
+![HPE Campus Design](/hpe_aruba//images/hpe_aruba_campus_design.png)
 
 - Discover and document
     - Validate existing documentation
