@@ -4,14 +4,14 @@
 
 I have used [HPE Aruba Networking CX Switch](https://www.hpe.com/us/en/aruba-cx-switches.html) in this lab to configure VLAN Trunking. HPE Aruba Networking CX switches are hosted on emulator ["EVE-NG"](https://www.eve-ng.net/).
 
-![HPE Aruba VLAN Trunking Design](/images/hpe_aruba_switches_stack.png)
+![HPE Aruba VLAN Trunking Design](images/hpe_aruba_switches_stack.png)
 
 This is a VLAN trunking lab, I am using two VLANs, VLAN 10 and 20. The command line interface of Aruba cx switches is similar to Cisco catalyst series switches which makes it easier to navigate through. 
 
 ### Design
 I am choosing a simple design selecting two switches and four VPC endpoints. Therefore, I assigned two VPC’s to VLAN 10 and two to VLAN 20 across both switches yet separating them between both switches. I picked two network address 10.1.10.0 and 10.1.20.0 with /24 subnet mask. Each VPC is assigned with an IP address respective to its VLAN number (demonstrated in network diagram).
 
-![HPE Aruba VLAN Trunking Design](/images/hpe_aruba_vlan_trunking_design.png)
+![HPE Aruba VLAN Trunking Design](images/hpe_aruba_vlan_trunking_design.png)
 
 ### Configuration
 
