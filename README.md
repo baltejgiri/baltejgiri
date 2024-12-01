@@ -8,16 +8,17 @@ I am Baltej Giri. I am a Computer Networking Professional with six plus years of
 </p>
 
 ## Skills
+
 - Computer Networking
 - Cloud Networking
 - Web Development
 - Problem-solving
 - Technical Documentation
 
-## What's Next?
-<p>
+## Roadmap
+
 I am planned to learn Github, Technical Writing, Network Administration tools: Switching, Routing, and Programming language. The ultimate long term goal is to master each of these topics.
-</p>
+
 
 ### Short-term goals
 Being proficent in following skills and tools.
@@ -27,9 +28,8 @@ Being proficent in following skills and tools.
 - Network Design
 
 ### Mid-term goals
-- Programming language - Python
 
-The plan is to have a good understanding of Python. Python is a versatile programming language. The network automation is done using Python, it helps to automate repetative tasks like: Deploying multiple switches, updating policies and much more.
+The plan is to have a good understanding of **Python**. Python is a versatile programming language. The network automation is done using Python, it helps to automate repetative tasks like: Deploying multiple switches, updating policies and much more.
 
 ### Long-term goals
 The short and mid-term goals are the objectives of long-term goals. The long-term goals are projected to be completed in 2-3 year of time frame. An additional aspect of working in Networking field is to adept with new technologies. ChatGPT is an perfect example, although it is a new skill to be learn I am going to adept to learnt I think a right time to dive into AI would be when I am activlty working on automating networks or at a architect role.
