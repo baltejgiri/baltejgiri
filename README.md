@@ -49,9 +49,13 @@ Instead soley focusing on getting a certification, in my optinion it is better t
 I am going to work towards Cisco's Professional Certification for Enterprise Networking. It's is often referred as CCNP then specilises in Enterprise Networking.
 
 ## How to reach me?
-- LinkedIn: https://www.linkedin.com/in/baltej-giri
-- Twitter: https://x.com/giribaltej
-- Blogpost: https://baltejgiri.github.io
+I am available on LinkedIn, X (previously Twitter) and I write blogpost on my website.
+
+[LinkedIn](https://www.linkedin.com/in/baltej-giri)
+
+[X](https://x.com/giribaltej)
+
+[Blogpost](https://baltejgiri.github.io)
 <!---
 baltejgiri/baltejgiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pro.file.
 You can click the Preview link to take a look at your changes.
