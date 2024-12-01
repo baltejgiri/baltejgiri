@@ -2,7 +2,7 @@
 
 ## AOS-CX: enterprise-class features
 
-![HPE CX Enterprise class features](/images/hpe_cx_enterprise_class_features.png)
+![HPE CX Enterprise class features](/images/hpe_aruba/images/hpe_cx_enterprise_class_features.png)
 
 ## AOS-CX: portfolio
 
