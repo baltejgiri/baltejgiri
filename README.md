@@ -32,7 +32,7 @@ Being proficent in following skills and tools.
 The plan is to have a good understanding of **Python**. Python is a versatile programming language. The network automation is done using Python, it helps to automate repetative tasks like: Deploying multiple switches, updating policies and much more.
 
 ### Long-term goals
-The short and mid-term goals are the objectives of long-term goals. The long-term goals are projected to be completed in 2-3 year of time frame. An additional aspect of working in Networking field is to adept with new technologies. ChatGPT is an perfect example, although it is a new skill to be learn I am going to adept to learnt I think a right time to dive into AI would be when I am activlty working on automating networks or at a architect role.
+The short and mid-term goals are the objectives of long-term goals. The long-term goals are projected to be completed in 2-3 year of time frame. An additional aspect of working in Networking field is to adept with new technologies. ChatGPT is an perfect example of it. There will be some times when i will have to make learn some additional skills based of the requirements of my professional career. The ultimate goal is to stay focused and continue learn.
 
 - Mastering network protocols
 - Network design
