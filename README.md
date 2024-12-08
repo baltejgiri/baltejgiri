@@ -7,6 +7,10 @@
 I am Baltej Giri. I am a Computer Networking Professional with six plus years of experience in Information Technology. I am passonate about creating network designs, write technical articles, and master networking protocols. I am a lifelong learner and like to stay connected with like minded people.
 </p>
 
+<p>
+  View my website at [Baltej Giri's Docs](https://baltejgiri.github.io/) network protocols I am working on.
+</p>
+
 ## Skills
 
 - Computer Networking
