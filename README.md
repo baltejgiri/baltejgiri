@@ -7,9 +7,9 @@
 I am Baltej Giri. I am a Computer Networking Professional with six plus years of experience in Information Technology. I am passonate about creating network designs, write technical articles, and master networking protocols. I am a lifelong learner and like to stay connected with like minded people.
 </p>
 
-<p>
-  View my website at [Baltej Giri's Docs](https://baltejgiri.github.io/) network protocols I am working on.
-</p>
+__View my website at [Baltej Giri Website](https://baltejgiri.github.io) network protocols or connect connect with me on [LinkedIn](https://www.linkedin.com/in/baltej-giri)__.
+
+>_Or continute reading here to know about more about me..._
 
 ## Skills
 
@@ -52,14 +52,6 @@ Instead soley focusing on getting a certification, in my optinion it is better t
 
 I am going to work towards Cisco's Professional Certification for Enterprise Networking. It's is often referred as CCNP then specilises in Enterprise Networking.
 
-## How to reach me?
-I am available on LinkedIn, X (previously Twitter) and I write blogpost on my website.
-
-[LinkedIn](https://www.linkedin.com/in/baltej-giri)
-
-[X](https://x.com/giribaltej)
-
-[Blogpost](https://baltejgiri.github.io)
 <!---
 baltejgiri/baltejgiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pro.file.
 You can click the Preview link to take a look at your changes.
