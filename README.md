@@ -50,8 +50,6 @@ IT certs can be used to learn the skills, they have a good curiculum to follow b
 
 Instead soley focusing on getting a certification, in my optinion it is better to use the certification curiculum and master the each concepts. Understand the fundamentals of protocols and technologies. It is important to take time and have a understanding of skills tested in the cert which will pay-off twice, first to excel at job and second to obtain a offical cert.</br>
 
-I am going to work towards Cisco's Professional Certification for Enterprise Networking. It's is often referred as CCNP then specilises in Enterprise Networking.
-
 <!---
 baltejgiri/baltejgiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pro.file.
 You can click the Preview link to take a look at your changes.
