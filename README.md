@@ -9,7 +9,7 @@ I am Baltej Giri. I am a Computer Networking Professional with six plus years of
 
 __View my website at [Baltej Giri Website](https://baltejgiri.com)</br>
 __View my labs at [My Labs](https://github.com/baltejgiri/my-labs)</br>
-Or connect connect with me on [LinkedIn](https://www.linkedin.com/in/baltej-giri)__.
+__Or connect connect with me on [LinkedIn](https://www.linkedin.com/in/baltej-giri)__.
 
 <!---
 baltejgiri/baltejgiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pro.file.
