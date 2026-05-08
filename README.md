@@ -7,8 +7,8 @@
 I am Baltej Giri. I am a Computer Networking Professional with six plus years of experience in Information Technology. I am passionate about creating network designs, write technical articles, and master networking protocols. I am a lifelong learner and like to stay connected with like minded people.
 </p>
 
-__View my website at [Baltej Giri Website](https://baltejgiri.com)</br>
-__View my labs at [My Labs](https://github.com/baltejgiri/my-labs)</br>
+__View my website at [Baltej Giri Website](https://baltejgiri.com)</br>__
+__View my labs at [My Labs](https://github.com/baltejgiri/my-labs)</br>__
 __Or connect connect with me on [LinkedIn](https://www.linkedin.com/in/baltej-giri)__.
 
 <!---
